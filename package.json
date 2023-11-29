@@ -1,6 +1,6 @@
 {
   "name": "diverse-db",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Unify and simplify database interactions across diverse Document Oriented Databases with DiverseDB, a versatile NodeJS package.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
