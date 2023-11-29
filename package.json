@@ -1,0 +1,23 @@
+{
+  "name": "diverse-db",
+  "version": "1.0.0",
+  "description": "Unify and simplify database interactions across diverse Document Oriented Databases with DiverseDB, a versatile NodeJS package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "dev": "vitest",
+    "build": "tsup src/index.ts --format cjs, esm --minify --dts-resolve",
+    "lint": "tsc",
+    "ci": "npm run lint && npm run test && npm run build"
+  },
+  "repository": "https://github.com/NeuroNexul/DiverseDB.git",
+  "author": "Arif Sardar <arifsardar.private@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "tsup": "^8.0.1",
+    "typescript": "^5.3.2",
+    "vitest": "^0.34.6"
+  }
+}
