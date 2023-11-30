@@ -1,5 +1,11 @@
 # diverse-db
 
+## 0.0.4
+
+### Patch Changes
+
+- d98be49: Changed package name in package.json file as well as version info
+
 ## 0.0.3
 
 ### Patch Changes
