@@ -4,6 +4,11 @@
 **/dist
 **/build
 
+# Test directories / files
+**/playground**.ts
+**/playground**.js
+**/playground.**.ts
+**/playground.**.js
 
 # IDEs and editors
 **/.idea

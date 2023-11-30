@@ -1,4 +1,7 @@
+/**
+ *
+ */
 
 export const func = () => {
-    return 'Hello world!';
-}
+  return "Hello world!";
+};

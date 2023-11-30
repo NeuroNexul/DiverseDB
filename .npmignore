@@ -7,6 +7,12 @@ tests
 tsconfig.json
 vite.config.ts
 
+# Test directories / files
+**/playground**.ts
+**/playground**.js
+**/playground.**.ts
+**/playground.**.js
+
 # Package files
 yarn.lock
 package-lock.json
