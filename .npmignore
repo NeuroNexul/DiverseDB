@@ -1,6 +1,7 @@
 
 # Project files
 src
+tests
 .github
 .changeset
 tsconfig.json
