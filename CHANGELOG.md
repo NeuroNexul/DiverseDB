@@ -1,5 +1,11 @@
 # diverse-db
 
+## 0.0.5
+
+### Patch Changes
+
+- 1f932c5: Added tests folder to .npmignore
+
 ## 0.0.4
 
 ### Patch Changes
